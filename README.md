@@ -1,2 +1,2 @@
-# 🎲tic-tac-toe game 🐍
-classic tic-tac-toe game made with python
+# 🎲tic-tac-toe game
+classic tic-tac-toe game made with python 🐍
