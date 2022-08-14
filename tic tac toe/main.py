@@ -75,7 +75,7 @@ def computer(board):
         if board[positon] == "-":
             board[positon] = "O"
             switchPlayer()
-# switch player X to O and O to X
+# switch player X to O or O to X
 def switchPlayer():
     global currentPlayer
     if currentPlayer == "X":
